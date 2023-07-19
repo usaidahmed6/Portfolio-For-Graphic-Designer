@@ -1,0 +1,36 @@
+.logo {
+    width: 100px;
+    margin: 5px 90px;
+}
+
+.navbar-expand-lg {
+    font-size: 16px;
+    /* box-shadow: 2px 2px 2px 2px #c9c9c95e; */
+}
+
+a {
+    color: #fee5b5;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fee5b5;
+    text-decoration: none;
+}
+
+button.navbar-toggler.collapsed {
+    background-color: #fee5b5;
+}
+
+.Header-Menu {
+    background-color: transparent;
+    transform: rotateY(178deg);
+    margin-left: -92%;
+}
+
+.menu-Item {
+    color: #fee5b5;
+    margin-top: 5px;
+
+
+}

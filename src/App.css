@@ -1,0 +1,235 @@
+.font-family,
+h2 {
+  font-family: 'Playfair';
+
+}
+
+@media only screen and (max-width: 400px) {
+
+
+  button.navbar-toggler.collapsed {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+
+  .navbar>.container,
+  .navbar>.container-fluid,
+  .navbar>.container-lg,
+  .navbar>.container-md,
+  .navbar>.container-sm,
+  .navbar>.container-xl,
+  .navbar>.container-xxl {
+    justify-content: center !important;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .dis-felx-resp {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+}
+
+@media only screen and (max-width: 1300px) {
+  .Header-Menu {
+    background-color: transparent;
+    /* transform: none !important; */
+    margin-left: 0 !important;
+  }
+
+}
+
+@media only screen and (max-width: 1300px) {
+  .circleDiv {
+    background-image: none !important;
+    transform: rotateY(178deg);
+    width: 100% !important;
+    height: auto !important;
+  }
+
+}
+
+@media only screen and (max-width: 1300px) {
+  .introContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100% !important;
+    height: 510px !important;
+    margin-left: 0px !important;
+    padding: 0px !important;
+    flex-direction: row-reverse;
+    align-items: center;
+    /* transform: rotateY(178deg); */
+  }
+
+}
+
+
+@media only screen and (max-width: 1300px) {
+  .left {
+    width: 45% !important;
+    transform: rotateY(178deg);
+    padding-top: 150px !important;
+    margin-top: 5px !important;
+  }
+
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .aboutContant {
+    margin-left: 0px;
+    margin-top: 100px;
+    display: inline-block;
+    width: 65% !important;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .aboutContainer {
+    justify-content: center;
+  }
+
+
+}
+
+@media only screen and (max-width: 1000px) {
+  .left {
+    width: 100% !important;
+    transform: rotateY(178deg);
+    text-align: center !important;
+    padding-top: 150px !important;
+    margin-top: 5px !important;
+  }
+
+}
+
+@media only screen and (max-width: 800px) {
+
+  .myServicesCards {
+    width: 30em !important;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+
+  .service {
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+
+  .get-in-touch {
+    width: 90% !important;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .userImage2 {
+    width: 20em !important;
+    float: right !important;
+    margin-right: -50px !important;
+  }
+
+}
+
+@media only screen and (max-width: 600px) {
+
+  .footer-main {
+    justify-content: center !important;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+
+  .work-images {
+    width: 20em !important;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+
+  .aboutContant {
+    margin-left: 0px !important;
+    display: inline-block;
+    width: 40%;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .social-icons {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+
+}
+
+@media only screen and (max-width: 1000px) {
+
+  .introContainer {
+    display: flex;
+    justify-content: center;
+    width: 200%;
+    /* height: 810px; */
+    margin-left: -634px;
+    padding: 150px;
+    flex-direction: row-reverse;
+    align-items: center;
+    /* transform: rotateY(178deg); */
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+
+  .right {
+    display: none !important;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+
+  .imageCont {
+    width: 40% !important;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+
+  .About {
+    margin-top: 0px !important;
+    width: 100% !important;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+
+  .aboutContainer {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #131f22;
+    padding: 80px 0px !important;
+    justify-content: center !important;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+
+  .userImage2 {
+    margin-bottom: 20px;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+
+  .aboutContant.aos-init.aos-animate {
+    margin-top: 40px;
+  }
+}

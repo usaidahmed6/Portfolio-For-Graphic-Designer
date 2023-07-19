@@ -1,0 +1,23 @@
+.work-images {
+    box-shadow: 30px 30px rgba(254, 229, 181, 5%) !important;
+    border-radius: 20px 0 20px 0 !important;
+    height: 400px !important;
+     ;
+    margin: 40px 40px !important;
+}
+.work-images:hover{
+    margin: 20px 20px !important;
+}
+.ant-image-mask{
+    display: none !important;
+}
+.workContainer {
+    margin-top: 200px;
+}
+
+.work-image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}

@@ -1,0 +1,27 @@
+.experience-container {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.experience-main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}
+.experience-content{
+    margin-top: 60px;
+    box-shadow: 20px 20px rgba(254,229,181,5%);
+    border-radius: 20px 0 20px 0;
+    background-color: #131f22;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 60px;
+}
+.dis-inline{
+    display: inline-block;
+    margin-top: 20px;
+}

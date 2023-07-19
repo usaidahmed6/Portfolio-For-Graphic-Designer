@@ -1,0 +1,38 @@
+.footer-container{
+    background-color: #131f22;
+}
+.footer-main{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px 70px;
+}
+.box{
+    background-color: #17262b;
+    margin: 100px 40px;
+    padding-bottom: 70px;
+    padding-left: 40px;
+    padding-right: 40px;
+    box-shadow: 20px 20px rgba(254,229,181,8%);
+    border-radius: 20px 0 20px 0;
+    margin-bottom: 60px;
+    justify-content: center;
+    text-align: center;
+    width: 22em;
+}
+.link-web{
+    font-size: 16px;
+    text-decoration: none;
+    line-height: 24px;
+    color: #fff;
+}
+.link-web:hover{
+    font-size: 16px;
+    text-decoration: none;
+    line-height: 24px;
+    color: #fff;
+}
+.get-in-touch{
+    display: inline-block;
+    width: 20em;
+    margin-top: 100px;
+}
